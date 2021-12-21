@@ -1,4 +1,5 @@
 Meu Primeiro Repositório 
 ======================== 
 
-O GitGitHub são legais!
+O Git/GitHub são legais! 
+Agora estou atualizado
