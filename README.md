@@ -1,5 +1,4 @@
-Meu Primeiro Repositório 
-======================== 
+Bem Vindo ao meu Repositório 
+==============================
 
-O Git/GitHub são legais! 
-Agora estou atualizado
+Aqui você encontra meus projetos realizados para fins didáticos!
